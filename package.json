@@ -1,24 +1,24 @@
 {
-	"name": "chain-it-cli",
-	"version": "0.1.0",
-	"description": "CLI for chain-it npm module",
-	"main": "index.js",
-	"author": "Matt Winchester <m_winche@yahoo.com> (https://github.com/mwinche)",
-	"license": "MIT",
-	"dependencies": {
-		"express": "^4.8.5",
-		"gulp": "^3.8.7"
-	},
-	"keywords": [
-		"chain-it",
-		"chain-it-cli",
-		"lazy assets",
-		"build",
-		"build systems",
-		"resource chain"
-	],
-	"preferGlobal": "true",
-	"bin": {
-		"chain-it": "index.js"
-	}
+  "name": "chain-it-cli",
+  "version": "0.1.1",
+  "description": "CLI for chain-it npm module",
+  "main": "index.js",
+  "author": "Matt Winchester <m_winche@yahoo.com> (https://github.com/mwinche)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.8.5",
+    "gulp": "^3.8.7"
+  },
+  "keywords": [
+    "chain-it",
+    "chain-it-cli",
+    "lazy assets",
+    "build",
+    "build systems",
+    "resource chain"
+  ],
+  "preferGlobal": "true",
+  "bin": {
+    "chain-it": "index.js"
+  }
 }
