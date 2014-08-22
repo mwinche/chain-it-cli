@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 var path = require('path'),
 	resources = require(path.join(process.cwd(), 'chain.js')),
 	express = require('express'),
